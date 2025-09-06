@@ -13,10 +13,5 @@ It includes a **password-protected owner interface** for managing items, users, 
 - Tkinter (optional, if GUI) 💻
 ## 📌 How to Run
 1. Clone the repository:
-git init
-```bash
-## 📫 Contact
-For questions or feedback, feel free to reach out:  
-Email: zeinebmanai39@gmail.com
 
-git clone https://github.com/zeineb-manai/depot-vente.git
+
